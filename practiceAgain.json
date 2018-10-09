@@ -1,0 +1,8 @@
+{
+  "Greeting": "Hello! Welcome to your homepage {{user_name}}! How cn we help you?",
+  "Returning": "Welcome, returning customer! How can we halp you?",
+  "Warning": "Make sure you save all content before logging off!",
+  "Contact": "Contact us on google.",
+  "Login": "Already have an account? Click here to sign in.",
+  "Forgot password": "Click here to reset your password."
+}
